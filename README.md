@@ -1,10 +1,2 @@
 # part0
-Here is a simple flow chart:
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+Exercise 0.4 = New_note_diagram.md
